@@ -1,9 +1,7 @@
-
+require 'pry'
 
 def reformat_languages(languages)
   # your code here
-
-def reformat_languages(languages)
   new_hash = {} 
 
   languages.each do |style, description|
