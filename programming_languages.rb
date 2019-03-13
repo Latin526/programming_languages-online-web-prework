@@ -1,6 +1,7 @@
+
+
 def reformat_languages(languages)
   # your code here
-  require 'pry'
 
 def reformat_languages(languages)
   new_hash = {} 
